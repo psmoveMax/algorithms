@@ -2,7 +2,7 @@ import java.lang.reflect.Array;
 import java.util.Arrays;
 
 
-public class ArrayMax {
+public class Top3MaxArray {
 
     public static int findMaxUnderBoundary(int [] inputArray, int topBoundary) {
         int currentMax = Integer.MIN_VALUE;
