@@ -1,4 +1,4 @@
-public class binary_search {
+public class BinarySearch {
     public static int binarySearch (int[] array, int search) {
         int left = 0;
         int right = array.length - 1;
